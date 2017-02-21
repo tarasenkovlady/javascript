@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: sans-serif;
+}
+
+header{
+  text-align: center;
+}
+
+section{
+  margin-left: 500px;
+  margin-top: 50px;
+  width: 200px;
+}
+
+.question_item{
+  margin-bottom: 10px;
+}
+
+ul.answer{
+  margin-bottom: 20px;
+}
+.answer li{
+  list-style-type: none;
+  margin-bottom: 5px;
+}
+
+button{
+  border: 2px solid black;
+  width: 200px;
+  height: 50px;
+  background-color: #cfe2f3;
+  cursor: pointer;
+}
